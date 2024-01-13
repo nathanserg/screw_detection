@@ -1,0 +1,11 @@
+path: 'D:/4 - ENSAM 3A/PJE_desassemblage_robotise/datasets/YOLO_dataset'
+train: 'images'
+val: 'images'
+ 
+# class names
+names: 
+  0: 'allen'
+  1: 'hexagonal'
+  2: 'philipsAndPZ'
+  3: 'slotted'
+  4: 'torx'
